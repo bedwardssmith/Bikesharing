@@ -41,7 +41,10 @@
 <img src="https://github.com/bedwardssmith/Bikesharing/blob/main/Images/User_Trips_by_Gender_by_Weekday.png" alt="Trips by Weekday by Gendera and by Type">
 <br>
 <h2>Summary</h2>
-<p>Although one would expect that bike sharing in New York City would be driven by tourism it is clear from the analysis that this is not the case.  From checkout times to subscribers to gender it is clear there is another driver to the popularity of bike sharing.  NEED TO PROVIDE FURTHER ANALYSIS REQUIRED</p>
-<p>
-<p>
+<p>Although one would expect that bike sharing in New York City would be driven by tourism it is clear from the analysis that this is not the case.  From checkout times to riders being subscribers rather than customers, to gender it is clear that although tourism is one facet of bikesharing there are other drivers behind its popularity.</p>
+<p>Based on the analysis completed I would recommend the following additional analysis with the given dataset:</p>
+<ul>
+<li>The number of bikes returned to the same station as the station checked out from versus being returned to another station.  This visualization, pie chart, would use the start station id and end station id.  Note that an if then statement would be required to determine if the start and end station id were the same.  The purpose of this visualization is to help to understand whether the bikes are being used to get from point A to point B rather than for recreational purposes.</li>
+<li>The trips by gender by weekday for which bikes were returned to the same station as the station checked out from.  Note that an if then statement would be required to determine if the start and end station id were the same.  This visualization, density, would use the start station id, end station, weekday, and gender.  The purpose of this visualization is to help understand 
+<br>
 <a href="https://public.tableau.com/profile/beverly.edwards.smith#!/vizhome/NYCCitibikeanalysis_16168739872070/Story1?publish=yes">Link to Tableau Story</a>
