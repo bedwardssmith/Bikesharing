@@ -8,12 +8,12 @@
 <h3>Top Bike Stations</h3>
 <p>explanation of findings</p>
 <br>
-<img scr="https://github.com/bedwardssmith/Bikesharing/blob/main/Images/Top_Bike_Stations.png" alt="Top Bike Stations">
+<img src="https://github.com/bedwardssmith/Bikesharing/blob/main/Images/Top_Bike_Stations.png" alt="Top Bike Stations">
 <br>
 <h3>August Peak Hours</h3>
 <p>explanation</p>
 <br>
-<img scr="https://github.com/bedwardssmith/Bikesharing/blob/main/Images/August_Peak_Hours.png" alt="August Peak Hours">
+<img src="https://github.com/bedwardssmith/Bikesharing/blob/main/Images/August_Peak_Hours.png" alt="August Peak Hours">
 <br>
 <h3>Checkout Time for Users</h3>
 <p>explanation of findings</p>
