@@ -44,4 +44,4 @@
 <p>include a high-level summary of the results and two additional visualizations are suggested for future analysis</p>
 <p>
 <p>
-<<a href="https://public.tableau.com/profile/beverly.edwards.smith#!/vizhome/NYCCitibikeanalysis_16168739872070/Story1?publish=yes">Link to Tableau Story</a>
+<a href="https://public.tableau.com/profile/beverly.edwards.smith#!/vizhome/NYCCitibikeanalysis_16168739872070/Story1?publish=yes">Link to Tableau Story</a>
