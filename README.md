@@ -1,6 +1,6 @@
 <h1>Bikesharing</h1>
 <h2>Overview</h2>
-<p>Investors are currently looking at a request to invest in a bike sharing program in Des Moines.  Data from New York City's CitiBike bike sharing business has been used to create visualizations to assist investors with their investment decision.  A story was created using these visualizations that walks the investors through the findings.</p>
+<p>Investors are currently looking at a request to invest in a bike sharing program in Des Moines.  Data from New York City's CitiBike bike sharing business has been used to create visualizations to assist investors with their investment decision.  A story was created using these visualizations that walks the investors through the findings.  The link to the Tableau story is provided at the end of the analysis.</p>
 <br>
 <h2>Analysis</h2>
 <p>The analysis consists of a number of visualizations each of which is explained below.</p>
